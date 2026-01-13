@@ -1,0 +1,42 @@
+body{
+
+      background-color: rgb(170, 208, 206);
+      font-family: Arial;
+      font-weight: bold;
+
+
+    }
+
+    .title{
+
+      font-size: 23px;
+
+    }
+
+    button{
+
+      background-color: inherit;
+      
+    }
+
+    .icon-button{
+
+      height: 75px;
+      background-color:transparent;
+      cursor: pointer;
+
+  
+    }
+
+    button{
+
+      border: 3px solid rgb(158, 142, 48);
+      height: 120px;
+      width: 120px;
+      border-radius: 60px;
+      cursor: pointer;
+
+
+    }
+
+
